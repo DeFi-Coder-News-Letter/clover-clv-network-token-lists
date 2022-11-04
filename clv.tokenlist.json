@@ -15,7 +15,7 @@
       "symbol": "WCLV",
       "decimals": 18,
       "chainId": 1024,
-      "logoURI": "https://raw.githubusercontent.com/clover-network/clv-network-token-lists/main/assets/clover.svg"
+      "logoURI": "https://raw.githubusercontent.com/clover-network/clv-network-token-lists/main/assets/clover.png"
     },
     {
       "name": "Tether USD",
@@ -23,7 +23,7 @@
       "symbol": "USDT",
       "decimals": 6,
       "chainId": 1024,
-      "logoURI": "https://raw.githubusercontent.com/clover-network/clv-network-token-lists/main/assets/USDT.svg"
+      "logoURI": "https://raw.githubusercontent.com/clover-network/clv-network-token-lists/main/assets/USDT.png"
     },
     {
       "name": "USD Coin",
@@ -31,7 +31,7 @@
       "symbol": "USDC",
       "decimals": 6,
       "chainId": 1024,
-      "logoURI": "https://raw.githubusercontent.com/clover-network/clv-network-token-lists/main/assets/USDC.svg"
+      "logoURI": "https://raw.githubusercontent.com/clover-network/clv-network-token-lists/main/assets/USDC.png"
     },
     {
       "name": "Dai Stablecoin",
@@ -39,7 +39,7 @@
       "symbol": "DAI",
       "decimals": 18,
       "chainId": 1024,
-      "logoURI": "https://raw.githubusercontent.com/clover-network/clv-network-token-lists/main/assets/DAI.svg"
+      "logoURI": "https://raw.githubusercontent.com/clover-network/clv-network-token-lists/main/assets/DAI.png"
     },
     {
       "name": "Wrapped Ether",
@@ -47,7 +47,7 @@
       "symbol": "WETH",
       "decimals": 18,
       "chainId": 1024,
-      "logoURI": "https://raw.githubusercontent.com/clover-network/clv-network-token-lists/main/assets/WETH.svg"
+      "logoURI": "https://raw.githubusercontent.com/clover-network/clv-network-token-lists/main/assets/WETH.png"
     },
     {
       "name": "Wrapped BTC",
@@ -55,7 +55,7 @@
       "symbol": "WBTC",
       "decimals": 8,
       "chainId": 1024,
-      "logoURI": "https://raw.githubusercontent.com/clover-network/clv-network-token-lists/main/assets/WBTC.svg"
+      "logoURI": "https://raw.githubusercontent.com/clover-network/clv-network-token-lists/main/assets/WBTC.png"
     },
     {
       "name": "Multichain",
@@ -63,7 +63,7 @@
       "symbol": "MULTI",
       "decimals": 18,
       "chainId": 1024,
-      "logoURI": "https://raw.githubusercontent.com/clover-network/clv-network-token-lists/main/assets/MULTI.svg"
+      "logoURI": "https://raw.githubusercontent.com/clover-network/clv-network-token-lists/main/assets/MULTI.png"
     },
     {
       "name": "Binance USD",
@@ -71,7 +71,7 @@
       "symbol": "BUSD",
       "decimals": 18,
       "chainId": 1024,
-      "logoURI": "https://raw.githubusercontent.com/clover-network/clv-network-token-lists/main/assets/BUSD.svg"
+      "logoURI": "https://raw.githubusercontent.com/clover-network/clv-network-token-lists/main/assets/BUSD.png"
     },
     {
       "name": "BNB",
@@ -79,7 +79,7 @@
       "symbol": "BNB",
       "decimals": 18,
       "chainId": 1024,
-      "logoURI": "https://raw.githubusercontent.com/clover-network/clv-network-token-lists/main/assets/BNB.svg"
+      "logoURI": "https://raw.githubusercontent.com/clover-network/clv-network-token-lists/main/assets/BNB.png"
     }
   ]
 }
