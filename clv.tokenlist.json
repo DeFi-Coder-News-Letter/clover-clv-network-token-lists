@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "logoURI": "https://raw.githubusercontent.com/clover-network/clv-network-token-lists/main/assets/WCLV.svg",
+  "logoURI": "https://raw.githubusercontent.com/clover-network/clv-network-token-lists/main/assets/clover.svg",
   "keywords": ["clv", "clover", "tokens", "defi"],
   "timestamp": "2022-09-06T08:00:00.000+00:00",
   "tokens": [
@@ -15,7 +15,7 @@
       "symbol": "WCLV",
       "decimals": 18,
       "chainId": 1024,
-      "logoURI": "https://raw.githubusercontent.com/clover-network/clv-network-token-lists/main/assets/WCLV.svg"
+      "logoURI": "https://raw.githubusercontent.com/clover-network/clv-network-token-lists/main/assets/clover.svg"
     },
     {
       "name": "Tether USD",
