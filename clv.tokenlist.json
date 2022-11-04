@@ -16,6 +16,70 @@
       "decimals": 18,
       "chainId": 1024,
       "logoURI": "https://raw.githubusercontent.com/clover-network/clv-network-token-lists/main/assets/clover.svg"
+    },
+    {
+      "name": "Tether USD",
+      "address": "0xF91193A62879279d6b8f209f89b6418e3C0e5CBf",
+      "symbol": "USDT",
+      "decimals": 6,
+      "chainId": 1024,
+      "logoURI": "https://raw.githubusercontent.com/clover-network/clv-network-token-lists/main/assets/USDT.svg"
+    },
+    {
+      "name": "USD Coin",
+      "address": "0x4A52F069Cb00905d996A0d7B811D78e60b4cB09E",
+      "symbol": "USDC",
+      "decimals": 6,
+      "chainId": 1024,
+      "logoURI": "https://raw.githubusercontent.com/clover-network/clv-network-token-lists/main/assets/USDC.svg"
+    },
+    {
+      "name": "Dai Stablecoin",
+      "address": "0xc8330583F433073592b978D70AC1Dce1fdc03123",
+      "symbol": "DAI",
+      "decimals": 18,
+      "chainId": 1024,
+      "logoURI": "https://raw.githubusercontent.com/clover-network/clv-network-token-lists/main/assets/DAI.svg"
+    },
+    {
+      "name": "Wrapped Ether",
+      "address": "0xA1c3767c93E7B51EcB445fDbae1494DfC654e524",
+      "symbol": "WETH",
+      "decimals": 18,
+      "chainId": 1024,
+      "logoURI": "https://raw.githubusercontent.com/clover-network/clv-network-token-lists/main/assets/WETH.svg"
+    },
+    {
+      "name": "Wrapped BTC",
+      "address": "0x30bEBbC0b6b357945AC30660E025C1532B9C7804",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "chainId": 1024,
+      "logoURI": "https://raw.githubusercontent.com/clover-network/clv-network-token-lists/main/assets/WBTC.svg"
+    },
+    {
+      "name": "Multichain",
+      "address": "0x9Fb9a33956351cf4fa040f65A13b835A3C8764E3",
+      "symbol": "MULTI",
+      "decimals": 18,
+      "chainId": 1024,
+      "logoURI": "https://raw.githubusercontent.com/clover-network/clv-network-token-lists/main/assets/MULTI.svg"
+    },
+    {
+      "name": "Binance USD",
+      "address": "0x3F5F32c36811Ec5fB3398e3c68454e223269622C",
+      "symbol": "BUSD",
+      "decimals": 18,
+      "chainId": 1024,
+      "logoURI": "https://raw.githubusercontent.com/clover-network/clv-network-token-lists/main/assets/BUSD.svg"
+    },
+    {
+      "name": "BNB",
+      "address": "0x60f46cB1C0fa3fcC5943667110De5F1e5fCb8408",
+      "symbol": "BNB",
+      "decimals": 18,
+      "chainId": 1024,
+      "logoURI": "https://raw.githubusercontent.com/clover-network/clv-network-token-lists/main/assets/BNB.svg"
     }
   ]
 }
