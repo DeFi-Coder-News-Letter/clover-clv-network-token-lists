@@ -15,7 +15,7 @@
       "symbol": "WCLV",
       "decimals": 18,
       "chainId": 1024,
-      "logoURI": "https://raw.githubusercontent.com/clover-network/clv-network-token-lists/main/assets/clover.png"
+      "logoURI": "https://raw.githubusercontent.com/clover-network/clv-network-token-lists/main/assets/clover.svg"
     },
     {
       "name": "Tether USD",
